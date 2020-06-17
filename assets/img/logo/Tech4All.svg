@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="100" viewBox="0 0 300 100">
+  <defs>
+    <clipPath id="clip-custom_2">
+      <rect width="300" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="custom_2" data-name="custom – 2" clip-path="url(#clip-custom_2)">
+    <rect width="300" height="100" fill="#233b6e"/>
+    <g id="noun_Idea_1920080_3_" data-name="noun_Idea_1920080 (3)" transform="translate(25 20.621)">
+      <path id="Path_1" data-name="Path 1" d="M34.166,61.171c2.853,0,5.166-1.867,5.166-4.171H29C29,59.3,31.313,61.171,34.166,61.171Z" transform="translate(-8.089 -1.93)" fill="#30dbff"/>
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="2" height="5" transform="translate(24.663)" fill="#30dbff"/>
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="2" height="7" transform="translate(6.028 7.444) rotate(-45)" fill="#30dbff"/>
+      <rect id="Rectangle_4" data-name="Rectangle 4" width="5" height="2" transform="translate(0 23.709)" fill="#30dbff"/>
+      <rect id="Rectangle_6" data-name="Rectangle 6" width="2" height="7" transform="translate(40.26 39.532) rotate(-51)" fill="#30dbff"/>
+      <rect id="Rectangle_7" data-name="Rectangle 7" width="5" height="2" transform="translate(46.327 23.709)" fill="#30dbff"/>
+      <rect id="Rectangle_8" data-name="Rectangle 8" width="7" height="2" transform="translate(39.351 10.559) rotate(-45)" fill="#30dbff"/>
+      <path id="Path_2" data-name="Path 2" d="M40,27h2a10,10,0,0,0-6.29-9.29L35,19.57A8,8,0,0,1,40,27Z" transform="translate(-5.449 -2.771)" fill="#30dbff"/>
+      <path id="Path_3" data-name="Path 3" d="M40.119,48.74H25.55l.136,2.871h14.3Z" transform="translate(-6.841 -1.836)" fill="#30dbff"/>
+      <path id="Path_4" data-name="Path 4" d="M40.369,52.74H25.8L26.035,56h14.1Z" transform="translate(-7.091 -1.76)" fill="#30dbff"/>
+      <path id="Path_5" data-name="Path 5" d="M23.721,43.619a7.254,7.254,0,0,1,2.8,5.232l.255,4.089H42.044l.255-4.077a7.325,7.325,0,0,1,2.82-5.267,17.844,17.844,0,0,0,5.615-20.082A17.406,17.406,0,0,0,33.585,12a17.74,17.74,0,0,0-9.864,31.616ZM33.689,14.36h.719A15.1,15.1,0,0,1,48.663,24.693a15.462,15.462,0,0,1-4.97,17.053,9.7,9.7,0,0,0-3.713,6.964l-.116,1.874H28.954l-.116-1.874a9.669,9.669,0,0,0-3.713-6.953A15.459,15.459,0,0,1,20,25.028,15.125,15.125,0,0,1,33.689,14.36Z" transform="translate(-8.489 -4)" fill="#30dbff"/>
+      <rect id="Rectangle_9" data-name="Rectangle 9" width="2" height="7" transform="translate(9.7 37.978) rotate(51)" fill="#30dbff"/>
+    </g>
+    <text id="Tech4All" transform="translate(76 26)" fill="#30dbff" font-size="40" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="39">Tech4All</tspan></text>
+  </g>
+</svg>
